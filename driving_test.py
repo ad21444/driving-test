@@ -10,3 +10,5 @@ elif country == '美國':
 		print('can')
 	else:
 		print("can't")
+else:
+	print('不合法的輸入')
